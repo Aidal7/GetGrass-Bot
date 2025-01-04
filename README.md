@@ -10,10 +10,19 @@ Install Dependen
 ```bash
 npm install
 ```
-Run Script
+Run Multi Script With Proxy
 ```bash
 npm start
+ ```
+or
+```bash
+node index.js
 ```
+Run single With Proxy or No proxy
+```bash
+node index-normal.js
+```
+Normal mode is Working for No Proxy
 
 Password Sc
 ```bash
