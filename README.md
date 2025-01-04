@@ -21,12 +21,16 @@ VGhpcyBmcmVlbWl1bSBzY3JpcHQgd2lsbCBiZSBwdWJsaXNoZWQgYW55b25lIGNhbiB1c2UgaXQsIGlm
 ```
 Set up your acount in account.js Format :
 acc1 
+
 acc2 
+
 acc3 
 
 Set up your Proxy in proxy.txt Format :
 proxy.txt for acc1 
+
 proxy1.txt for acc2 
+
 proxy2.txt for acc3 
 
 
