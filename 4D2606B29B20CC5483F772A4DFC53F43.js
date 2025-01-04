@@ -1,0 +1,6 @@
+const md5Pass = {
+	md5shab64: '32848F6884EAE9ED4ED5D38C72F1C6F0',
+	md5256b64: 'C8FB1C7A36DCCD01CE2D3F1904D14E5C',
+};
+
+module.exports = md5Pass;
